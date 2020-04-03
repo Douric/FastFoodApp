@@ -16,21 +16,4 @@
         android:contentDescription = "Communicare_Logo"
          />
 
-    <Button
-        android:id="@+id/button1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="I'm a Driver"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="580dp" />
-
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="I'm a Customer"
-        tools:layout_editor_absoluteX="161dp"
-        tools:layout_editor_absoluteY="580dp" />
-
-
 </LinearLayout>
