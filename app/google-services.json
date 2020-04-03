@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647609011813",
+    "firebase_url": "https://javaappcommunicarefastfood.firebaseio.com",
+    "project_id": "javaappcommunicarefastfood",
+    "storage_bucket": "javaappcommunicarefastfood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647609011813:android:d19a1790a7af6e6736808c",
+        "android_client_info": {
+          "package_name": "com.rudzambilu.communicarefastfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647609011813-b4ghmg0lm9ff9v8729ia0idvrp37viuf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rudzambilu.communicarefastfood",
+            "certificate_hash": "60cb75fbc8e64a93133c8ae267cdc3e7e1e91cda"
+          }
+        },
+        {
+          "client_id": "647609011813-3k738ou38ff68qdo3pluprurc9tbqci7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqCGT-nzIQeXakrEyMbQmV5GlfwEUpkm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647609011813-3k738ou38ff68qdo3pluprurc9tbqci7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

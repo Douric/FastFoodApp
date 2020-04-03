@@ -1,0 +1,2 @@
+rootProject.name='CommuniCareFastFood'
+include ':app'
