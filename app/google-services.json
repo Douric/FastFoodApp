@@ -8,7 +8,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:647609011813:android:d19a1790a7af6e6736808c",
+        "mobilesdk_app_id": "1:647609011813:android:71399358f8ea7faf36808c",
         "android_client_info": {
           "package_name": "com.rudzambilu.communicarefastfood"
         }
@@ -29,7 +29,7 @@
       ],
       "api_key": [
         {
-//          "current_key": ""
+          "current_key": "AIzaSyDdBqHSOJqDMQw5IQnQHJ7UESsrb-gJuHQ"
         }
       ],
       "services": {
